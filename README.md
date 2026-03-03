@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m JD<br><br> Flutter Developer from Kerala, India  <br> BSc Computer Science Graduate  <br><br>I build clean, scalable mobile apps with a strong focus on UI/UX and performance.  <br>Passionate about turning ideas into real-world products using modern tools.<br><br>🛠 Tech Stack  <br>• Flutter & Dart  <br>• Firebase (Auth, Firestore)  <br>• REST APIs  <br>• Provider & GetX  <br><br> Currently learning and improving every day  <br>  Always curious, always building  <br><br>“Code clean. Learn fast. Build things that matter.”<br>
+ Hi, I’m JD<br><br> Flutter Developer from Kerala, India  <br> BSc Computer Science Graduate  <br><br>I build clean, scalable mobile apps with a strong focus on UI/UX and performance.  <br>Passionate about turning ideas into real-world products using modern tools.<br><br>🛠 Tech Stack  <br>• Flutter & Dart  <br>• Firebase (Auth, Firestore)  <br>• REST APIs  <br>• Provider , GetX & RiverPod  <br><br> Currently learning and improving every day  <br>  Always curious, always building  <br><br>“Code clean. Learn fast. Build things that matter.”<br>
 
 
 ## 🌐 Socials:
